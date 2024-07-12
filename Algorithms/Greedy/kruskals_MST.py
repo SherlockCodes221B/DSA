@@ -1,3 +1,17 @@
+'''
+Sort all the edges in non-decreasing order of their weight. 
+Pick the smallest edge. Check if it forms a cycle with the spanning tree formed so far. If cycle is not formed, include this edge. Else, discard it. 
+Repeat step#2 until there are (V-1) edges in the spanning tree.
+
+Src: GeeksForGeeks
+
+Data Structre used here is Graphs
+
+
+
+'''
+
+
 import pdb
 
 class Graph:

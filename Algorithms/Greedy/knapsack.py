@@ -1,6 +1,8 @@
 '''
 Time complexity NlogN
 
+Data Structre used here is List/Tuple
+
 '''
 
 

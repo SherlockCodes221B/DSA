@@ -1,3 +1,9 @@
+'''
+Data Structre used here is Graphs
+'''
+
+
+
 V = 5
 G = [[0, 9, 75, 0, 0],
      [9, 0, 95, 19, 42],
